@@ -16,9 +16,9 @@
 <style>
   header {
     display: flex;
-    flex-flow: row wrap;
-    justify-content: space-between;
-    align-items: stretch;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
     padding: 0.5rem;
   }
 
